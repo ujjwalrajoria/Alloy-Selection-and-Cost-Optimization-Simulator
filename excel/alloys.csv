@@ -1,0 +1,9 @@
+Alloy,Tensile_Strength_MPa,Hardness_HB,Density_g_cm3,Corrosion_Rating,Processability_Rating,Cost_INR_kg
+Aluminium 6061,276,95,2.70,7,8,320
+Aluminium 7075,503,150,2.81,6,6,520
+Stainless Steel 304,215,123,8.00,8,7,240
+Stainless Steel 316,205,149,8.00,9,6,380
+Ti-6Al-4V,880,334,4.43,9,5,2600
+AISI 4140,655,197,7.85,5,7,180
+AZ31 Magnesium,200,60,1.77,4,8,420
+Inconel 718,1030,331,8.19,9,3,3100

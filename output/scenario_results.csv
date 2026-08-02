@@ -1,0 +1,25 @@
+Scenario,Alloy,Score,Rank
+Balanced,Ti-6Al-4V,0.6991,1
+Balanced,Inconel 718,0.5984,2
+Balanced,Aluminium 6061,0.5404,3
+Balanced,AISI 4140,0.5273,4
+Balanced,Aluminium 7075,0.5269,5
+Balanced,Stainless Steel 316,0.4829,6
+Balanced,Stainless Steel 304,0.4689,7
+Balanced,AZ31 Magnesium,0.3877,8
+Performance,Ti-6Al-4V,0.8239,1
+Performance,Inconel 718,0.7978,2
+Performance,Aluminium 7075,0.4514,3
+Performance,AISI 4140,0.4372,4
+Performance,Stainless Steel 316,0.3966,5
+Performance,Aluminium 6061,0.3907,6
+Performance,Stainless Steel 304,0.3442,7
+Performance,AZ31 Magnesium,0.1959,8
+Budget,Aluminium 6061,0.6876,1
+Budget,AISI 4140,0.6275,2
+Budget,Aluminium 7075,0.6165,3
+Budget,Stainless Steel 304,0.6025,4
+Budget,Stainless Steel 316,0.5858,5
+Budget,AZ31 Magnesium,0.5753,6
+Budget,Ti-6Al-4V,0.5628,7
+Budget,Inconel 718,0.3989,8
